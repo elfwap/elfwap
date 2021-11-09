@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [![devoir]](https://github.com/elfwap/devoir)
+- 🔭 I’m currently working on: 
+[ ] [devoir](https://github.com/elfwap/devoir)
+[devoir-app](https://github.com/elfwap/devoir-app) and [schoolsyscake](https://github.com/schoolsyscake)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
