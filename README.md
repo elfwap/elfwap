@@ -8,7 +8,7 @@
 
 **Plans**
 
-1. Create a new programming language called _`Impresa`_.
-2. Develop an `IDE` for `Impresa`.
-3. Create `API`'s to integrate `Impresa` in other programming languages.
+1. Create a new programming language called _[Impresa](https://github.com/elfwap/Impresa)_.
+2. Develop an `IDE` for _[Impresa](https://github.com/elfwap/Impresa)_.
+3. Create `API`'s to integrate _[Impresa](https://github.com/elfwap/Impresa)_ in other programming languages.
 4. Integrate `Impresa` to _[devoir-app](https://github.com/elfwap/devoir-app)_.
