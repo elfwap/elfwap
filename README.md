@@ -3,7 +3,6 @@
 - 👷 I’m currently working on:
   - [x] [devoir](https://github.com/elfwap/devoir).
   - [x] [devoir-app](https://github.com/elfwap/devoir-app).
-  - [x] [schoolsyscake](https://github.com/elfwap/schoolsyscake).
 
 ***PLANS 🪐***
 - [ ] Create a new programming language called ***[Emblem](https://github.com/elfwap/emblem)***.
